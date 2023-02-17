@@ -5,14 +5,15 @@ characters = ['Mal', 'Zoe', 'Wash', 'Jayne', 'Inara', 'Kaylee', 'Simon', 'River'
 # Print the name of each character with a witty comment
 for character in characters
     print("I aim to misbehave, " + character + "!")
+"""
+ "C:\Users\Rosse\IdeaProjects\Battle Your Ships\venv\Scripts\python.exe" "C:/Users/Rosse/IdeaProjects/Learning Journal Unit 3/Runtime_Error.py"
+ File "C:\Users\Rosse\IdeaProjects\Learning Journal Unit 3\Runtime_Error.py", line 6
+ for character in characters
+     ^
+ SyntaxError: expected ':'
 
-# "C:\Users\Rosse\IdeaProjects\Battle Your Ships\venv\Scripts\python.exe" "C:/Users/Rosse/IdeaProjects/Learning Journal Unit 3/Runtime_Error.py"
-# File "C:\Users\Rosse\IdeaProjects\Learning Journal Unit 3\Runtime_Error.py", line 6
-# for character in characters
-#     ^
-# SyntaxError: expected ':'
-
-# To fix this error, we simply need to add the missing colon to the for statement:
+ To fix this error, we simply need to add the missing colon to the for statement:
+"""
 # Define a list of Firefly characters
 characters = ['Mal', 'Zoe', 'Wash', 'Jayne', 'Inara', 'Kaylee', 'Simon', 'River', 'Book']
 
