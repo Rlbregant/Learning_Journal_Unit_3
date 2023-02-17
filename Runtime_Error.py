@@ -14,6 +14,7 @@ SyntaxError: expected ':'
 
 To fix this error, we simply need to add the missing colon to the for statement:
 """
+
 # Define a list of Firefly characters
 characters = ['Mal', 'Zoe', 'Wash', 'Jayne', 'Inara', 'Kaylee', 'Simon', 'River', 'Book']
 
