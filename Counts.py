@@ -31,3 +31,31 @@ def main():
         countdown(number)
 
 main()
+
+"""
+Example 1: a positive number
+
+Enter a number: 5
+5
+4
+3
+2
+1
+Blastoff!
+
+Example 2: a negative number
+
+Enter a number: -3
+-3
+-2
+-1
+Blastoff!
+
+Example 3: zero
+
+Enter a number: 0
+Blastoff!
+
+For input of zero, I chose to call the countdown function because space flight always counts down for launches. I 
+could have called the countup function instead, but I thought it would be more interesting to see the countdown 
+function in action for zero. """
